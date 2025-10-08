@@ -6,7 +6,7 @@
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-html-css-mJmOq6WGKU)
 - Live Site URL: (https://qrcodecomponenthtmlcss.netlify.app/)
 
 ### Built with
